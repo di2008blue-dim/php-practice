@@ -31,12 +31,12 @@ $greater = ($x > $y);
 <tr>
     <td><?php echo $less; ?></td>
         <td>x < y </td>
-            <td> < </td>
+            <td> > </td>
 </tr>
 <tr>
     <td><?php echo $greater; ?></td>
         <td>x > y </td>
-            <td> > </td>
+            <td> < </td>
 </tr>
 </table>              
 </center>
