@@ -19,8 +19,8 @@ $final =($base + $increase) * $count;
 <table border="1" cellpadding="20" cellpacing="15">
 <tr>
      <th>تعداد</th>
-         <th>قمیت اولیه</th>
-            <th> افزایش قمیت</th>
+         <th>قیمت اولیه</th>
+            <th> افزایش قیمت</th>
                 <th>قیمت نهایی</th>
 </tr>
 <tr>
